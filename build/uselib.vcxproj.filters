@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Project\109DATASearch\darknet-master_YOLOv4\darknet-master\src\yolo_console_dll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Project\109DATASearch\darknet-master_YOLOv4\darknet-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DD9AF321-3B49-3653-8744-FB8898522CFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
